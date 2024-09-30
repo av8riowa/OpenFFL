@@ -83,7 +83,7 @@ We welcome contributions to OpenFFL. Please follow these steps if you'd like to 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed for personal or small business use - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -103,6 +103,4 @@ Stay tuned for updates!
 - Inspired by FastBound, a leading FFL software solution.
 - Special thanks to contributors and the open-source community.
 
----
 
-Let me know if you need any changes to this README, or if you want to add something specific!
